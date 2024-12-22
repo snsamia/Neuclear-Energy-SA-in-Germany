@@ -69,12 +69,7 @@ This project focuses on extracting, analyzing, and visualizing sentiments from Y
 | LSTM                 | 77.51%     |
 
 ### Visualization: Model Accuracy Comparison
-![Model Accuracy](https://github.com/snsamia/YT-Sentiment-Analysis/blob/main/accuracy_comparison_updated.png)
+![Model Accuracy](https://github.com/snsamia/Neuclear-Energy-SA-in-Germany/blob/main/model%20comparision.png)
 
 ---
 
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/snsamia/YT-Sentiment-Analysis.git
