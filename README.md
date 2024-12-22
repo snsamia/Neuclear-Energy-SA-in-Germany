@@ -1,4 +1,4 @@
-# YouTube Comment Sentiment Analysis
+# Neuclear Energy SA in Germany: YouTube Comment Sentiment Analysis
 
 This project focuses on extracting, analyzing, and visualizing sentiments from YouTube video comments using Machine Learning (ML) and Natural Language Processing (NLP) techniques. By leveraging data from the YouTube API, we aim to classify comments into positive, negative, or neutral sentiments.
 
